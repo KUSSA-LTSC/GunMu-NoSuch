@@ -13,4 +13,4 @@ nasm -f win64 humm.asm -o humm.obj
 gcc -o humm.exe humm.obj -mwindows -lkernel32 -luser32 -nostdlib
 ```
 
-到底啦~
+到底啦~就这么点。
